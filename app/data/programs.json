@@ -1,0 +1,316 @@
+[
+  { "task_name": "070dd51e.json", "best_program": "overlay(ic_erasecol(int_one(), ic_connectX(ARG0)), overlay(ic_erasecol(int_one(), ic_connectY(ARG0)), ARG0))", "solution_found": true },
+  { "task_name": "0c786b71.json", "best_program": "mirrorX(mirrorY(rot180(ARG0)))", "solution_found": true },
+  { "task_name": "0c786b71.json", "best_program": "ic_composegrowing(toGridList(overlay(ARG0, mirrorY(ic_erasecol(int_one(), mirrorX(rot180(ARG0)))))))", "solution_found": true },
+  { "task_name": "19bb5feb.json", "best_program": "ic_compress2(ic_compress2(ic_erasecol(8, ic_compress3(ARG0))))", "solution_found": true },
+  { "task_name": "1a2e2828.json", "best_program": "ic_compress3(ic_pickunique(ic_splitall(ARG0)))", "solution_found": true },
+  { "task_name": "59341089.json", "best_program": "overlay(flipy(flipy(ARG0)), mirrorX(mirrorX(flipy(ARG0))))", "solution_found": true },
+   {
+    "task_name": "5ffb2104.json",
+    "best_program": "gravity_right(ARG0)",
+    "solution_found": true
+  },
+
+ {
+    "task_name": "68b67ca3.json",
+    "best_program": "ic_compress2(ARG0)",
+    "solution_found": true
+  },
+    {
+    "task_name": "73182012.json",
+    "best_program": "left_half(ic_compress2(top_half(ic_compress2(ARG0))))",
+    "solution_found": true
+  },
+   {
+    "task_name": "833dafe3.json",
+    "best_program": "mirrorX(mirrorY(rot180(ARG0)))",
+    "solution_found": true
+  },
+   {
+    "task_name": "be03b35f.json",
+    "best_program": "top_half(left_half(flipy(overlay(flipx(top_half(ARG0)), left_half(flipy(ARG0))))))",
+    "solution_found": true
+  },
+    {
+    "task_name": "bf32578f.json",
+    "best_program": "ic_connectY(overlay(flipy(ARG0), overlay(ARG0, ARG0)))",
+    "solution_found": true
+  },
+   {
+    "task_name": "be03b35f.json",
+    "best_program": "top_half(left_half(overlay(ic_connectX(overlay(left_half(flipx(set_bg(int_one(), overlay(ARG0, ARG0)))), left_half(overlay(overlay(flipy(ARG0), left_half(top_half(top_half(ic_compress2(flipx(ARG0)))))), left_half(top_half(top_half(ARG0))))))), rot90(left_half(ARG0)))))",
+    "solution_found": true
+  },
+    {
+    "task_name": "cd3c21df.json",
+    "best_program": "ic_pickunique(ic_splitall(ARG0))",
+    "solution_found": true
+  },
+    {
+    "task_name": "ce8d95cc.json",
+    "best_program": "ic_compress3(ARG0)",
+    "solution_found": true
+  },
+    {
+    "task_name": "e1baa8a4.json",
+    "best_program": "ic_compress3(ARG0)",
+    "solution_found": true
+  },
+   {
+    "task_name": "f0df5ff0.json",
+    "best_program": "overlay(rot180(ic_makeborder(rot180(ic_filtercol(int_one(), ARG0)))), ARG0)",
+    "solution_found": true
+  },
+  {
+    "task_name": "00d62c1b.json",
+    "best_program": "fillobj(4, ARG0)",
+    "solution_found": true
+  },
+    {
+    "task_name": "4347f46a.json",
+    "best_program": "logical_and(ARG0, ic_makeborder(ic_makeborder(ARG0)))",
+    "solution_found": true
+  },
+   {
+    "task_name": "1cf80156.json",
+    "best_program": "ic_composegrowing(ic_splitall(ARG0))",
+    "solution_found": true
+  },
+    {
+    "task_name": "1e0a9b12.json",
+    "best_program": "gravity_down(ARG0)",
+    "solution_found": true
+  },
+   {
+    "task_name": "1f85a75f.json",
+    "best_program": "ic_pickunique(ic_splitall(ARG0))",
+    "solution_found": true
+  },
+   {
+    "task_name": "2013d3e2.json",
+    "best_program": "top_half(left_half(ic_compress2(ARG0)))",
+    "solution_found": true
+  },
+
+  {
+    "task_name": "22168020.json",
+    "best_program": "overlay(ic_connectX(ARG0), ARG0)",
+    "solution_found": true
+  },
+    {
+    "task_name": "22eb0ac0.json",
+    "best_program": "overlay(ARG0, ic_connectX(ARG0))",
+    "solution_found": true
+  },
+    {
+    "task_name": "23b5c85d.json",
+    "best_program": "ic_compress2(ic_filtercol(rarestcol(ARG0), overlay(ARG0, ARG0)))",
+    "solution_found": true
+  },
+  {
+    "task_name": "28bf18c6.json",
+    "best_program": "ic_compress2(repeatX(ARG0))",
+    "solution_found": true
+  },
+   {
+    "task_name": "2dee498d.json",
+    "best_program": "right_half(right_half(overlay(right_half(right_half(repeatX(ARG0))), right_half(right_half(ARG0)))))",
+    "solution_found": true
+  },
+  {
+    "task_name": "3af2c5a8.json",
+    "best_program": "mirrorY(mirrorX(ARG0))",
+    "solution_found": true
+  },
+{
+    "task_name": "3c9b0459.json",
+    "best_program": "rot180(ARG0)",
+    "solution_found": true
+  },
+
+  {
+    "task_name": "62c24649.json",
+    "best_program": "flipy(mirrorX(mirrorY(ARG0)))",
+    "solution_found": true
+  },
+
+ {
+    "task_name": "6150a2bd.json",
+    "best_program": "rot180(ARG0)",
+    "solution_found": true
+  },
+  {
+    "task_name": "62c24649.json",
+    "best_program": "mirrorX(fillobj(int_one(), mirrorY(ARG0)))",
+    "solution_found": true
+  },
+ {
+    "task_name": "496994bd.json",
+    "best_program": "overlay(logical_and(ARG0, ARG0), rot180(ARG0))",
+    "solution_found": true
+  },
+ {
+    "task_name": "4c4377d9.json",
+    "best_program": "ic_compress2(mirrorY(gravity_down(flipx(ARG0))))",
+    "solution_found": true
+  },
+  {
+    "task_name": "4258a5f9.json",
+    "best_program": "fillobj(rarestcol(ARG0), ic_makeborder(ARG0))",
+    "solution_found": true
+  },
+ {
+    "task_name": "67a3c6ac.json",
+    "best_program": "flipy(ic_compress3(ARG0))",
+    "solution_found": true
+  },
+{
+    "task_name": "67e8384a.json",
+    "best_program": "mirrorX(ic_compress2(mirrorY(ARG0)))",
+    "solution_found": true
+  },
+  {
+    "task_name": "68b16354.json",
+    "best_program": "flipx(ARG0)",
+    "solution_found": true
+  },
+  {
+    "task_name": "6d0aefbc.json",
+    "best_program": "gravity_down(gravity_right(mirrorX(overlay(ARG0, ARG0))))",
+    "solution_found": true
+  },
+ {
+    "task_name": "6fa7a44f.json",
+    "best_program": "mirrorY(ARG0)",
+    "solution_found": true
+  },
+  {
+    "task_name": "72ca375d.json",
+    "best_program": "pickcommon(ic_splitall(mirrorX(repeatX(ARG0))))",
+    "solution_found": true
+  },
+ {
+    "task_name": "7468f01a.json",
+    "best_program": "flipx(rot180(ic_compress2(ARG0)))",
+    "solution_found": true
+  },
+ {
+    "task_name": "746b3537.json",
+    "best_program": "ic_compress3(ARG0)",
+    "solution_found": true
+  },
+  {
+    "task_name": "74dd1130.json",
+    "best_program": "swapxy(ic_compress3(ARG0))",
+    "solution_found": true
+  },
+  {
+    "task_name": "7b6016b9.json",
+    "best_program": "overlay(set_bg(rarestcol(set_bg(rarestcol(ic_compress3(ARG0)), set_bg(3, set_bg(3, set_bg(topcol(set_bg(3, set_bg(3, ARG0))), set_bg(3, left_half(ARG0))))))), set_bg(topcol(ARG0), set_bg(topcol(set_bg(3, set_bg(3, ARG0))), set_bg(rarestcol(ARG0), set_bg(3, ARG0))))), set_bg(2, set_bg(3, fillobj(2, ARG0))))",
+    "solution_found": true
+  },
+ {
+    "task_name": "8be77c9e.json",
+    "best_program": "ic_erasecol(3, mirrorY(ARG0))",
+    "solution_found": true
+  },
+{
+    "task_name": "90c28cc7.json",
+    "best_program": "ic_compress2(ic_compress3(ARG0))",
+    "solution_found": true
+  },
+  {
+    "task_name": "9565186b.json",
+    "best_program": "fillobj(topcol(fillobj(9, ARG0)), set_bg(5, ic_filtercol(topcol(ARG0), gravity_right(ARG0))))",
+    "solution_found": true
+  },
+  {
+    "task_name": "9dfd6313.json",
+    "best_program": "swapxy(ic_compress2(ARG0))",
+    "solution_found": true
+  }, 
+{
+    "task_name": "a416b8f3.json",
+    "best_program": "repeatX(ARG0)",
+    "solution_found": true
+  },
+ {
+    "task_name": "a5313dff.json",
+    "best_program": "fillobj(1, ARG0)",
+    "solution_found": true
+  },
+  {
+    "task_name": "a740d043.json",
+    "best_program": "ic_compress2(ic_erasecol(int_one(), ARG0))",
+    "solution_found": true
+  },
+
+ {
+    "task_name": "b8825c91.json",
+    "best_program": "swapxy(rot270(overlay(rot270(rot270(ARG0)), ic_compress2(ic_erasecol(4, ARG0)))))",
+    "solution_found": true
+  },
+ {
+    "task_name": "b9b7f026.json",
+    "best_program": "ic_composegrowing(ic_splitall(ic_connectY(ic_compress3(ic_erasecol(int_one(), overlay(ARG0, ARG0))))))",
+    "solution_found": true
+  },
+  {
+    "task_name": "c9e6f938.json",
+    "best_program": "mirrorX(overlay(ARG0, ARG0))",
+    "solution_found": true
+  },
+ {
+    "task_name": "d037b0a7.json",
+    "best_program": "overlay(ARG0, gravity_down(overlay(gravity_down(logical_and(ARG0, ARG0)), ARG0)))",
+    "solution_found": true
+  },
+{
+    "task_name": "d5d6de2d.json",
+    "best_program": "ic_connectX(ic_erasecol(rarestcol(ARG0), overlay(ARG0, setcol(3, ARG0))))",
+    "solution_found": true
+  },
+
+  {
+    "task_name": "d631b094.json",
+    "best_program": "top_half(overlay(ic_compress2(ic_compress2(gravity_right(gravity_right(gravity_right(gravity_right(gravity_right(ic_compress2(gravity_right(overlay(ic_compress2(countToY(countPixels(ARG0), rarestcol(ARG0))), swapxy(ARG0))))))))))), ic_compress2(ic_compress2(gravity_right(ic_compress2(gravity_right(repeatX(right_half(swapxy(ARG0))))))))))",
+    "solution_found": true
+  },
+
+  {
+    "task_name": "d9fac9be.json",
+    "best_program": "rot90(pickcommon(ic_splitall(gravity_down(mirrorY(ARG0)))))",
+    "solution_found": true
+  },
+  {
+    "task_name": "ded97339.json",
+    "best_program": "overlay(ARG0, overlay(ic_connectX(ARG0), rot90(rot270(ic_connectY(ARG0)))))",
+    "solution_found": true
+  },
+  {
+    "task_name": "e3497940.json",
+    "best_program": "left_half(overlay(overlay(ARG0, overlay(ARG0, flipy(ARG0))), ic_connectY(ARG0)))",
+    "solution_found": true
+  },
+ {
+    "task_name": "eb5a1d5d.json",
+    "best_program": "ic_compress3(ARG0)",
+    "solution_found": true
+  },
+  {
+    "task_name": "ed36ccf7.json",
+    "best_program": "rot90(overlay(ARG0, ARG0))",
+    "solution_found": true
+  },
+ {
+    "task_name": "f25ffba3.json",
+    "best_program": "overlay(ARG0, flipx(ARG0))",
+    "solution_found": true
+  },
+
+  {
+    "task_name": "f76d97a5.json",
+    "best_program": "rot180(ic_invert(flipx(flipy(ic_erasecol(5, ARG0)))))",
+    "solution_found": true
+  }
+]
